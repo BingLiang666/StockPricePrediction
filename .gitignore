@@ -1,4 +1,6 @@
-data
 Miniconda3-latest-MacOSX-arm64.sh
 .ipynb_checkpoints
 .DS_Store
+output.csv
+chatgpt_tweets.csv
+MSFT.csv
