@@ -19,4 +19,4 @@ A new 'Sentiment' column is derived based on a scoring system, with
  
  - 1 indicating positive sentiment
 
-For more details, you can check the "Sentiment_Analysis_roBERTa.ipynb" in branch shumin_new.
+For more details, you can check the "Sentiment_Analysis_roBERTa.ipynb" in branch shumin.
