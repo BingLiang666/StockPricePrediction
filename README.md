@@ -32,3 +32,6 @@ This file contains python codes that assign each tweet a stock price which is on
 
 ### merged_tweets_and_stock_prices.csv.zip
 This file contains the tweets and the stock price associated to each tweet.
+
+### ML Project - RNN.ipynb
+This file contains python codes that train model and use this model to make prediction.
